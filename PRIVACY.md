@@ -102,7 +102,7 @@ If this policy changes, the updated version will be posted at this address with 
 
 Questions, requests or concerns about privacy:
 
-**Email:** your-email@example.com
+**Email:** ifyouworry@proton.me
 
 ---
 
